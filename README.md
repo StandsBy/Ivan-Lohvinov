@@ -1,1 +1,5 @@
-# Ivan-Lohvinov
+- 👋 Hi, I'm @Ivan lohvinov
+- 👀 I'm interested in gaming and programming
+- 🌱 I'm currently learning js 
+- 💞️ I'm looking to collaborate on pretty everything I'm related to
+- 📫 How to reach me >>> mail or DM
