@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  
-  <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
 </p>
 
 ---
@@ -41,7 +39,7 @@
   <img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=flat-square" alt="Ukrainian"/>
   <img src="https://img.shields.io/badge/Russian-Fluent-blue?style=flat-square" alt="Russian"/>
   <img src="https://img.shields.io/badge/English-Fluent-green?style=flat-square" alt="English"/>
-  <img src="https://img.shields.io/badge/French-Fluent-green?style=flat-square" alt="French"/>
+  <img src="https://img.shields.io/badge/French-B2-green?style=flat-square" alt="French"/>
 </p>
 
 ---
