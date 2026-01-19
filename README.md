@@ -48,7 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StandsBy&show_icons=true&theme=dark&hide_border=true&locale=fr" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StandsBy&layout=compact&theme=dark&hide_border=true&locale=fr" alt="Top Langs" />
 </p>
 
 <p align="center">
